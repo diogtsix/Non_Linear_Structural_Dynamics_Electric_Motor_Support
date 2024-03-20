@@ -1,6 +1,8 @@
 # Non_Linear_Structural_Dynamics_Electric_Motor_Support
 This is an academic analysis, regarding the structural dynamics (from a parametric perspective) for a non-linear electric motor's support
-
+### Included
+1.  **The Report**  for this project (pdf document), were you can find a full analysis of the theory and also a representation and description of all the results 
+2.  **The Code** in Matlab Enviroment
 This GitHub repository is dedicated to an academic project developed as part of the coursework at the Aristotle University of Thessaloniki, under the supervision of the Department of Mechanical Engineering. The project, authored by Diogenis Tsichlakis, focuses on the fascinating world of non-linear structural dynamics, particularly examining the behavior of electric motor supports under non-linear forces. This exploration is driven by the curiosity to understand how mechanical systems react when subjected to conditions that deviate from the linear norm, such as Duffing-type stiffness and linear damping characteristics.
 
 ### Project Overview:
